@@ -1,0 +1,2 @@
+# Webzz
+Simple web folder
